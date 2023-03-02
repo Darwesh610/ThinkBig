@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d608220.css",
+    "main.js": "/static/js/main.247e26eb.js",
+    "static/js/787.b94789a7.chunk.js": "/static/js/787.b94789a7.chunk.js",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.e97a5f598f5290198b84.png",
+    "static/media/logoOnly.png": "/static/media/logoOnly.6e6f1956bb2c1bb71f50.png",
+    "static/media/logowithThink.png": "/static/media/logowithThink.a2114d3ea511bfe2d13c.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/Untitled-2.jpg": "/static/media/Untitled-2.263483c8e58c968ba805.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/headerCon.jpeg": "/static/media/headerCon.7a27e8dbb3d6d62ba580.jpeg",
+    "static/media/backgroud.png": "/static/media/backgroud.557fcd8d41f4b2ee3db8.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.2bce8032c93fcca05bf0.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/cursor-icon-move.cur": "/static/media/cursor-icon-move.791f8ab3f5967fe9f7d7.cur",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/index.html",
+    "main.4d608220.css.map": "/static/css/main.4d608220.css.map",
+    "main.247e26eb.js.map": "/static/js/main.247e26eb.js.map",
+    "787.b94789a7.chunk.js.map": "/static/js/787.b94789a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d608220.css",
+    "static/js/main.247e26eb.js"
+  ]
+}
